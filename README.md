@@ -41,7 +41,7 @@ This work was funded, in part, by the United States National Aeronautics and Spa
 
 #### References
 * Williams, B. A., and Coauthors, 2020: Change in terrestrial human footprint drives continued loss of intact ecosystems. 2020.05.04.077818, https://doi.org/10.1101/2020.05.04.077818
-* Keys, Patrick, Elizabeth A. Barnes and Neil Carter: Biodiversity Conservation Can Coexist with Increasing Human Footprint. Submitted 08/2020.
+* Keys, Patrick, Elizabeth A. Barnes and Neil Carter: A machine-learning approach to human footprint index estimation with applications to sustainable development. Revisions submitted to _Environmental Research Letters_, 10/2020.
 
 ## License
 This project is licensed under an MIT license.
