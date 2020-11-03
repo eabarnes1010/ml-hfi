@@ -13,10 +13,11 @@ The latest version of the ml-HFI is v1.0. Future versions will be released here.
 ## Get the data
 ![ml-HFI for 2000 and 2019](images/ml_hfi_v1.0_2000_2019.png)
 
-The ml-HFI is a continuous value between 0. and 1., ranging from no human impact to high human impact. ml-HFI v1.0 contains a global map of the ml-HFI for the year 2000 and the year 2019 on a 0.00989 deg latitude x 0.00989 deg longitude grid running from 70S-70N. Data for each year can be accessed below via netcdf (.nc) files. Each file is 3.6GB in size.
+The ml-HFI is a continuous value between 0. and 1., ranging from no human impact to high human impact. ml-HFI v1.0 contains a global map of the ml-HFI for the year 2000 and the year 2019 on a 0.00989 deg latitude x 0.00989 deg longitude grid running from 70S-70N. Data for each year can be accessed via the link below. Each file is 3.6GB in size.
 
-* ml-HFI 2000: ml_hfi_v1_2000.nc
-* ml-HFI 2019: ml_hfi_v1_2019.nc
+* CSU Mountain Scholar Repository: https://mountainscholar.org/handle/10217/216207
+    *  ml_hfi_v1_2000.nc (3.563Gb)
+    *  ml_hfi_v1_2019.nc (3.563Gb)
 
 ## Algorithm
 We train a convolutional neural network (architecture shown in the image) to ingest three channels of Landsat imagery and predict the human footprint index for that location. 
