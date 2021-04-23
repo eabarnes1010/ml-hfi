@@ -32,7 +32,7 @@ For training, we utilize the gridded HFI product computed by Williams et al. (20
 <br><br>
 The grid resolution of the Williams et al. (2020) training data and the ml-HFI product is 0.00989 deg latitude x 0.00989 deg longitude, and the ml-HFI is computed from 70S-70N. The ml-HFI algorithm was coded with python 3.6 and run on the Walter Scott College of Engineering HPC "Asha". 
 
-A detailed description of the ml-HFI and its computation is provided in Keys et al. (2020).
+A detailed description of the ml-HFI and its computation is provided in [Keys et al. (2021)](https://iopscience.iop.org/article/10.1088/1748-9326/abe00a).
 
 ## Credits
 The ml-HFI was conceived and created as a collaborative effort between [Dr. Elizabeth A. Barnes](https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home), [Dr. Patrick W. Keys](patkeys.com) and [Dr. Neil Carter](https://seas.umich.edu/research/faculty/neil-carter).
