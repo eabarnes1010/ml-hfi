@@ -1,5 +1,5 @@
 ## ml-HFI
-The machine-learning-based human footprint index (ml-HFI) is an index of human pressure on the landscape based on remotely sensed surface imagery. 
+The machine-learning-based human footprint index (ml-HFI) is an index of human pressure on the landscape based on remotely sensed surface imagery. Initial results published in [Keys et al. (2021)](https://iopscience.iop.org/article/10.1088/1748-9326/abe00a).
 
 
 ## Motivation
